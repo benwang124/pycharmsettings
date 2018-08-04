@@ -5,6 +5,7 @@
       <mapping pattern="DHS" type="PLAIN_TEXT" />
       <mapping pattern="IMR" type="PLAIN_TEXT" />
       <mapping pattern="THR" type="PLAIN_TEXT" />
+      <mapping pattern="No hardware" type="PLAIN_TEXT" />
       <mapping pattern="BPE_data" type="Python" />
     </extensionMap>
   </component>
